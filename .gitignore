@@ -1,0 +1,11 @@
+# ignore all .csv, .zip file
+*.zip
+*.csv
+
+# ignore credential files
+*.json
+
+# ignore 
+__pycache__/
+.venv
+.DS_Store
